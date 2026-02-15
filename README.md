@@ -6,7 +6,7 @@ Team Members
 
 Aparna PP – Saintgits College of Engineering
 
-Marvin Mathews – Saintgits College of Engineering
+Maurin Mathews – Saintgits College of Engineering
 
 Hosted Project Link
 
